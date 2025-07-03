@@ -1,6 +1,6 @@
 **# Customer Store Analysis 🛍️**
 
-**Demo Website:** 🔗 \(https://customer-store-analysi1.onrender.com/)
+**Website:** 🔗 \(https://customer-care-analysis.onrender.com/)
 
 ---
 
